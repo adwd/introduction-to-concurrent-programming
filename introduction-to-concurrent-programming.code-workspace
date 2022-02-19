@@ -1,7 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "ch02"
+			"path": "ch02/c_thread"
+		},
+		{
+			"path": "ch02/rust-example"
 		}
 	],
 	"settings": {}
