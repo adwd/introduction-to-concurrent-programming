@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "ch02/rust-example"
+		},
+		{
+			"path": "ch03/atomic"
 		}
 	],
 	"settings": {}
