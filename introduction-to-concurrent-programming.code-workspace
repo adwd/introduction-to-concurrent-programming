@@ -20,6 +20,9 @@
 		},
 		{
 			"path": "ch03/03_rust_example"
+		},
+		{
+			"path": "ch04/04_rust_example"
 		}
 	],
 	"settings": {}
