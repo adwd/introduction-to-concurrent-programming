@@ -1,22 +1,22 @@
 {
 	"folders": [
 		{
-			"path": "ch02/c_thread"
+			"path": "ch02/02_c_thread"
 		},
 		{
-			"path": "ch02/rust-example"
+			"path": "ch02/02_rust-example"
 		},
 		{
-			"path": "ch03/atomic"
+			"path": "ch03/03_atomic"
 		},
 		{
-			"path": "ch03/mutex"
+			"path": "ch03/03_mutex"
 		},
 		{
-			"path": "ch03/semaphore"
+			"path": "ch03/03_semaphore"
 		},
 		{
-			"path": "ch03/rwlock"
+			"path": "ch03/03_rwlock"
 		}
 	],
 	"settings": {}
