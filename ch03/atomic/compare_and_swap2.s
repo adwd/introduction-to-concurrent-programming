@@ -5,12 +5,8 @@
 _compare_and_swap:                      ; @compare_and_swap
 	.cfi_startproc
 ; %bb.0:
-	ldr	x8, [x0]
-	cmp	x8, x1
-	b.ne	LBB0_2
-; %bb.1:
-	str	x2, [x0]
-LBB0_2:
+	mov	x8, x1
+	casal	x8, x2, [x0]
 	cmp	x8, x1
 	cset	w0, eq
 	ret

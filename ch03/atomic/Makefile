@@ -1,5 +1,5 @@
 # cas = 3_2_1_cas_1.s 3_2_1_cas_2.s 3_2_2_tas.s
-cas = compare_and_swap.s
+cas = compare_and_swap.s compare_and_swap2.s test_and_set.s
 
 all: $(cas)
 

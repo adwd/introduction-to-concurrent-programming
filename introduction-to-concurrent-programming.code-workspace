@@ -8,6 +8,15 @@
 		},
 		{
 			"path": "ch03/atomic"
+		},
+		{
+			"path": "ch03/mutex"
+		},
+		{
+			"path": "ch03/semaphore"
+		},
+		{
+			"path": "ch03/rwlock"
 		}
 	],
 	"settings": {}
