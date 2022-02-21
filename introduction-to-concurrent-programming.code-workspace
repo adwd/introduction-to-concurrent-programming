@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "ch03/03_rwlock"
+		},
+		{
+			"path": "ch03/03_rust_example"
 		}
 	],
 	"settings": {}
