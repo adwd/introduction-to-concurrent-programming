@@ -29,6 +29,9 @@
 		},
 		{
 			"path": "ch05/05_rust_example"
+		},
+		{
+			"path": "ch06/green-thread"
 		}
 	],
 	"settings": {}
